@@ -1,2 +1,2 @@
 fastai==1.0.61
-streamlit==0.80.0
+streamlit==1.30.0
